@@ -81,6 +81,14 @@ Hotel_Management_System
 
 <h2><a class="anchor" id="screenshots"></a>Screenshots</h2>
 
+![](hms_images/i1.png)
+
+![](hms_images/i2.png)
+
+![](hms_images/i3.png)
+
+![](hms_images/i4.png)
+
 ---
 
 <h2><a class="anchor" id="prerequisites"></a>Prerequisites</h2>
